@@ -1,5 +1,5 @@
-#include "Libro.h"
-#include "Biblioteca.h"
+#include "../include/Biblioteca.h"
+#include "../include/Libro.h"
 #include <iostream>
 
 void Biblioteca::agregarLibro(Libro libro) { libros.push_back(libro); }

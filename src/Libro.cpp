@@ -1,4 +1,4 @@
-#include "Libro.h"
+#include "../include/Libro.h"
 
 Libro::Libro(std::string t, std::string a, std::string isbn, bool disp)
     : titulo(t), autor(a), ISBN_SN(isbn), disponible(disp) {}
