@@ -1,5 +1,5 @@
-#include "Biblioteca.h"
-#include "Libro.h"
+#include "../include/Biblioteca.h"
+#include "../include/Libro.h"
 #include <iostream>
 
 int main() {
