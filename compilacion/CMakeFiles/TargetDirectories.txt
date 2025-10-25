@@ -1,0 +1,3 @@
+/home/alehu/Carpetalse/BIBLIOTECA/compilacion/CMakeFiles/Biblioteca.dir
+/home/alehu/Carpetalse/BIBLIOTECA/compilacion/CMakeFiles/edit_cache.dir
+/home/alehu/Carpetalse/BIBLIOTECA/compilacion/CMakeFiles/rebuild_cache.dir
